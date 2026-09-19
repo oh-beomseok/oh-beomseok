@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=azoaj&label=Profile%20views&color=e47878&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=oh-beomseok&label=Profile%20views&color=e47878&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">${\textsf{\color{#e47878}HIM AND I}}$
