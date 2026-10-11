@@ -19,6 +19,7 @@
 <p align="center"><a href=https://pronouns.cc/@Willy_azo>pronouns<a/>
 <p align="center"><a href=https://ohbeomseokinfo.straw.page>Straw<a/>
 
-<p align="center"><img width="192" height="212" alt="image" src="https://github.com/user-attachments/assets/58b9acc0-0bbd-417b-9c06-effb97f48ec9" />
+<p align="center"><img width="192" height="212" alt="image" src="https://github.com/user-attachments/assets/5677e4d2-751f-406e-b359-9ece13610940" />
+
 
 
