@@ -4,7 +4,8 @@
 
 <p align="center">${\textsf{\color{#e47878}โลเล โยเย โมเม No way}}$
 
-<p align="center"><img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/66180723-986f-4794-ae68-123dbf5340d6" />
+<p align="center"><img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/8b73402f-3a75-4552-9a9a-ed20ee12843c" />
+
 
 
 
